@@ -1,0 +1,3 @@
+0001,2025-12-05,10:30,Dr.Slyvester,General Checkup,Scheduled
+0002,2025-08-07,12:45,Dr.Slyvester,Knee pain,Scheduled
+0003,2025-12-10,09:00,Dr.Eric,Follow-up therapy,Scheduled

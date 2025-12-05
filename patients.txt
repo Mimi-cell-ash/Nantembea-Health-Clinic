@@ -1,0 +1,3 @@
+0001,Christine,christine@gmail.com,0552349986,Kumasi,Female,2007-05-08,Dad: 02445678923
+0002,Michelle,michelle@gmail.com,0249988775,Accra,Female,2005-11-06,Mum: 054330211
+0003,Getrude,getrude@gmail.com,0554697843,HO,Female,2007-03-17,Aunt: 024567891
